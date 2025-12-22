@@ -1,0 +1,7 @@
+1.Lenguaje de marcas
+2.Programacion
+3.Sistemas informaticos
+4.Ampliacion de sistemas infromaticos
+5.Base de Datos
+6.Entornos de desarrollo
+7.IPE
